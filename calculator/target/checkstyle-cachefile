@@ -1,0 +1,4 @@
+#Wed May 29 13:31:40 MSK 2024
+configuration*?=864FA47F9824525D57286412384CB7F0F518290D
+module-resource*?\:checkstyle-xpath-suppressions.xml=C0C3693D75309DB61B24B9D9D84D80C8F9329D04
+module-resource*?\:checkstyle-suppressions.xml=402DF684B6477248ECD0EDC3D113A67AE70DD136
